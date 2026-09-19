@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "69431265b37954984faa1334",
+  "owner": "espdhy",
+  "repo": "page-f871ee47b158e70158d7fa2e",
+  "title": "金龙鱼(CTC)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f871ee47b158e70158d7fa2e",
+      "a": "金龙鱼(CTC)",
+      "b": "clash verge官网",
+      "entity": "金龙鱼(CTC)",
+      "brand": "金龙鱼(CTC)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6cf50adcee5cb7658f81fc68d74b1c95dcf98fbbd899714a5b7d088e5fe58db3",
+      "content": {
+        "primary_entity": "金龙鱼(CTC)",
+        "keyword1": "金龙鱼(CTC)",
+        "keyword2": "clash verge官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "主流设备均有对应客户端方案，按系统选用即可。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，下载对应客户端，按文档导入订阅即可使用。",
+          "AI_CLOSING_TITLE": "开始配置",
+          "AI_DESCRIPTION": "，以海外加速器为核心，提供基础版、旗舰版与团队版三档订阅。旗舰版每月 300GB 流量、支持 5 台设备，适合个人多终端；团队版每月 1000GB、支持 20 台设备，适合小型工作室协同使用。选择时先确认同时在线设备数，再对照月流量需求，最后按客户端文档导入订阅。",
+          "AI_FEATURES_INTRO": "从设备数量、流量规模与订阅周期三个角度快速定位套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按同时在线数量选择。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，按日常视频、游戏与下载强度匹配。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，例如旗舰版月付 ¥35，年付 ¥350。",
+          "AI_FEATURE_TITLE_1": "看设备数",
+          "AI_FEATURE_TITLE_2": "看月流量",
+          "AI_FEATURE_TITLE_3": "看付费周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到订阅导入的配置流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "金龙鱼(CTC)是面向海外访问场景的加速器服务，提供基础版、旗舰版与团队版三档套餐，覆盖个人到小型团队的不同流量与设备需求。选择时先确认同时在线设备数量，再对照每月流量使用情况，最后按所用客户端的文档导入订阅。",
+          "AI_HERO_SUBTITLE": "面向多设备与不同流量需求的加速订阅",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与线路能力上逐级提升，可按需要对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数与月流量需求，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的最大设备数量、月流量额度与可用线路特点，确认是否满足使用场景。",
+          "AI_STEP_TEXT_3": "在所用设备上安装对应客户端，依照该客户端的导入说明添加订阅信息。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "金龙鱼(CTC)加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可根据日常使用的手机、电脑、平板数量选择合适档位，升级套餐后设备上限会相应提高。",
+          "AI_FAQ_ANSWER_2": "月付和年付都支持。基础版 ¥15/月、年付 ¥150；旗舰版 ¥35/月、年付 ¥350；团队版 ¥85/月、年付 ¥850。长期使用选年付通常更实惠，短期需求可以先按月付体验。",
+          "AI_FAQ_ANSWER_3": "选择套餐后，在对应客户端里导入订阅链接即可。不同设备使用的客户端不同，请按各客户端文档完成添加订阅、选择节点和连接三个步骤，过程通常只需几分钟。",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务。适合小团队或多设备同时使用，稳定性与带宽优先级更高。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化和全节点原生流媒体解锁，适合游戏和看剧需求；基础版提供基础流媒体解锁和普通线路节点池，适合日常浏览和轻量使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "支持月付吗？年付会更划算吗？",
+          "AI_FAQ_QUESTION_3": "购买后如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景使用？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fc58790f1d35419696d5ff6bea119b9cd65b03d33ed5c6606f70b21e45562848",
+    "sitemap.xml": "e8993038e6ad303b38cf695c34154f8abd5d0bc296e869b0b9fe70871bfce19e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "55f5855e7a8583e065ae58609233e5026ada3e7c2aef296a1a20605e1592ba35"
+}
